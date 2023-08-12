@@ -91,7 +91,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/gemma-evans-vJ_GpGoUOi0-unsplash.jpg') no-repeat;
+    background: url('images/gemma-evans-vJ_GpGoUOi0-unsplash.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
